@@ -1,1 +1,1 @@
-# html-boilerplate
+# html-boilerplate for [odin](https://www.theodinproject.com)
